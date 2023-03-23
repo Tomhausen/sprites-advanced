@@ -8,9 +8,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json",
         "test.ts",
-        "main.py",
         "images.g.jres",
         "images.g.ts",
         "spritesadvanced.ts"
